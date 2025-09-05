@@ -13,12 +13,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Dubem007/mobile_movie_app.git",
-    "accountId": "b613bddf-96a2-4585-8d6a-6f388991300e"
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Dubem007"
   }
 }]]></component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Dubem007/mobile_movie_app.git&quot;,
+    &quot;accountId&quot;: &quot;b613bddf-96a2-4585-8d6a-6f388991300e&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -78,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1757091360883</updated>
       <workItem from="1757091363377" duration="145000" />
-      <workItem from="1757092213533" duration="4868000" />
+      <workItem from="1757092213533" duration="5215000" />
     </task>
     <task id="LOCAL-00001" summary="Project setup">
       <option name="closed" value="true" />
@@ -96,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757096764399</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Project setup">
+      <option name="closed" value="true" />
+      <created>1757097146975</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1757097146975</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
